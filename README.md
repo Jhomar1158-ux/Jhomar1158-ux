@@ -4,7 +4,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/jhomar.astuyauriherencia.12/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jhomarcristianelias@gmail.com)
 
-My name is **Jhomar Astuyauri**, I'm 21 years old and I'm studying **Electronic Engineering** at the National University of Engineering in Peru :earth_americas:. Currently, I'm chair of [IEEE UNI](https://www.facebook.com/reieeeuni), It's the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity. I'm absolutely passionate about Management, Marketing, UX and also very interested in Artificial Intelligence.
+My name is **Jhomar Astuyauri**, I'm 21 years old and I'm studying **Electronic Engineering** at the [National University of Engineering](https://www.facebook.com/UNIoficial.pe) in Peru :earth_americas:. Currently, I'm chair of [IEEE UNI](https://www.facebook.com/reieeeuni), It's the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity. I'm absolutely passionate about Management, Marketing, UX and also very interested in Artificial Intelligence.
 
 ### Team Projects :star:
 
