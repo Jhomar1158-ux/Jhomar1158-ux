@@ -1,9 +1,14 @@
 ### Hi! 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhomar-astuyauri/)
-[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/jhomar.astuyauriherencia.12/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jhomarcristianelias@gmail.com)
+<a href="https://www.linkedin.com/in/jhomar-astuyauri/">
+  <img align="left" alt="Jhomar Astuyauri | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
+<a href="https://www.facebook.com/jhomar.astuyauriherencia.12/">
+  <img align="left" alt="Jhomar Astuyauri | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />
+</a>
+
+<br /><br />
 My name is **Jhomar Astuyauri**, I'm 21 years old and I'm studying **Electronic Engineering** at the [National University of Engineering](https://www.facebook.com/UNIoficial.pe) in Peru :earth_americas:. Currently, I'm chair of [IEEE UNI](https://www.facebook.com/reieeeuni), It's the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity. I'm absolutely passionate about Management, Marketing, UX and also very interested in Artificial Intelligence.
 
 ### Team Projects :star:
