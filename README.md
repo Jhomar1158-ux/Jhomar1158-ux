@@ -23,7 +23,7 @@ My name is **Jhomar Astuyauri**, I'm 21 years old and I'm studying **Electronic 
 
 - [Kali](https://drive.google.com/file/d/1lrUX7GtUxWkhnQiPS24IYlNxrHzVTrGp/view?usp=sharing)
 
-  Voice assistant at scale, integrated with an AI, that provides truthful information on prevention and health promotion in the context of the COVID-19 pandemic.
+  Voice assistant at scale, integrated with an Artificial Intelligence, that provides truthful information on prevention and health promotion in the context of the COVID-19 pandemic.
   
   
 - [Qurier App](https://quierounqurier.epizy.com/)
