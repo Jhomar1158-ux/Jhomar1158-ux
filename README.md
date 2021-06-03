@@ -40,8 +40,8 @@ My name is **Jhomar Astuyauri**, I'm 21 years old and I'm studying **Electronic 
 
 - Know/Using
 
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c logo" width="22">](https://www.gnu.org/software/bash/)  |
-|---|---|
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c logo" width="22">](https://www.gnu.org/software/bash/)  |[<img src="https://www.fontana.com.ar/wp-content/uploads/2018/04/javalogo.png" alt="Java logo" width="40">](https://www.java.com/) |
+|---|---|---|
 
 - Learning
 
