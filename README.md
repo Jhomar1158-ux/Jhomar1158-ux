@@ -30,7 +30,7 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
   Voice assistant at scale, integrated with an Artificial Intelligence, that provides truthful information on prevention and health promotion in the context of the COVID-19 pandemic.
   
   
-- [Qurier App](https://quierounqurier.epizy.com/)
+- [Qurier App](https://github.com/Jhomar1158-ux/Somos-Qurier-App)
   
   It's an app that connects you with your environment to make purchases that will earn you extra money or request someone to make them for you.
   
