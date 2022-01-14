@@ -13,6 +13,10 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
 ### Team Projects :star:
 
+- [Juégalo](https://github.com/Jhomar1158-ux/ecommerce-de-juegos-de-mesa)
+
+  E-commerce of table games
+
 - [Izily](https://izily.online/)
 
   A social network focused on connecting students and teachers through effective search systems, references from other users, and qualified experiences, maintaining a mainly   educational interaction between the inside and outside of class.
@@ -33,29 +37,3 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 - [Amachay App](https://github.com/Jhomar1158-ux/Project-Amachay)
   
   AMACHAY-COVID proposes a solution for the prevention of the contagion of COVID-19, alerting the presence and/or agglomeration of infected people in an approximate range of   100 meters around, through improved algorithms to identify the probably infected people, allowing them to monitor the contagion routes street by street, follow the route or   take another.
-
-
-
-### Programming Languages 🌐
-
-- Know/Using
-
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c logo" width="22">](https://www.gnu.org/software/bash/)  |[<img src="https://www.fontana.com.ar/wp-content/uploads/2018/04/javalogo.png" alt="Java logo" width="40">](https://www.java.com/) |
-|---|---|---|
-
-- Learning
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |
-|---|
-
-### Tools 🛠️
-
-- Know/Using
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://img.icons8.com/color/452/amazon-alexa-logo.png" alt="Alexa Developer Console logo" width="26">](https://developer.amazon.com/alexa/console/) |
-|---|---|--|--|
-
-- Learning
-
-| [<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GMP.max-200x200.png" alt="Google Marketing Platform logo" width="24">](https://marketingplatform.google.com/) |[<img src="https://img.icons8.com/color/452/google-firebase-console.png" width="26">](https://firebase.google.com/)|
-|---|---|
