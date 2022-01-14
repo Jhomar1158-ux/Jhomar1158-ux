@@ -9,7 +9,7 @@
 </a>
 
 <br /><br />
-I'm studying **Electronic Engineering** at the [National University of Engineering](https://www.facebook.com/UNIoficial.pe) in Peru :earth_americas:. Currently, I'm chair of [IEEE UNI](https://www.facebook.com/reieeeuni), It's the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity. I'm absolutely passionate about Management, Marketing, UX and also very interested in Artificial Intelligence.
+I'm studying **Electronic Engineering** at the [National University of Engineering](https://www.facebook.com/UNIoficial.pe) in Peru :earth_americas:. I'm absolutely passionate about Management, Marketing, UX and also very interested in Artificial Intelligence.
 
 ### Team Projects :star:
 
