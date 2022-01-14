@@ -25,7 +25,7 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
   Edullka Virtual Camps were born with the initiative to show the skills needed by students who are passionate about new technologies in the field of application.
 
-- [Kali](https://drive.google.com/file/d/1lrUX7GtUxWkhnQiPS24IYlNxrHzVTrGp/view?usp=sharing)
+- [Kali](https://github.com/Jhomar1158-ux/KaliTeamUNI)
 
   Voice assistant at scale, integrated with an Artificial Intelligence, that provides truthful information on prevention and health promotion in the context of the COVID-19 pandemic.
   
