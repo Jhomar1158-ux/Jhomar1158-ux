@@ -17,7 +17,7 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
   E-commerce of table games
 
-- [Izily](https://izily.online/)
+- [Izily](https://github.com/JoCGM09/Izily-React)
 
   A social network focused on connecting students and teachers through effective search systems, references from other users, and qualified experiences, maintaining a mainly   educational interaction between the inside and outside of class.
  
