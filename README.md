@@ -19,7 +19,7 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
   
 - [iAforo](https://github.com/Jhomar1158-ux/iAforo-pruebas)
 
-  E-commerce of table games
+  People detector with computer vision
   
 - [Izily](https://github.com/JoCGM09/Izily-React)
 
