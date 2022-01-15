@@ -16,19 +16,23 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 - [Juégalo](https://github.com/Jhomar1158-ux/ecommerce-de-juegos-de-mesa)
 
   E-commerce of table games
+  
+- [iAforo](https://github.com/Jhomar1158-ux/iAforo-pruebas)
 
+  E-commerce of table games
+  
 - [Izily](https://github.com/JoCGM09/Izily-React)
 
   A social network focused on connecting students and teachers through effective search systems, references from other users, and qualified experiences, maintaining a mainly   educational interaction between the inside and outside of class.
+  
+- [Kali](https://github.com/Jhomar1158-ux/KaliTeamUNI)
+
+  Voice assistant at scale, integrated with an Artificial Intelligence, that provides truthful information on prevention and health promotion in the context of the COVID-19 pandemic.
  
 - [Edullka](https://edullka.github.io/)
 
   Edullka Virtual Camps were born with the initiative to show the skills needed by students who are passionate about new technologies in the field of application.
 
-- [Kali](https://github.com/Jhomar1158-ux/KaliTeamUNI)
-
-  Voice assistant at scale, integrated with an Artificial Intelligence, that provides truthful information on prevention and health promotion in the context of the COVID-19 pandemic.
-  
   
 - [Qurier App](https://github.com/Jhomar1158-ux/Somos-Qurier-App)
   
