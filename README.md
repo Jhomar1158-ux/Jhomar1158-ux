@@ -23,7 +23,7 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
   
 - [iAforo](https://github.com/Jhomar1158-ux/iAforo-pruebas)
 
-  People detector with computer vision
+  Due to the current situation due to covid-19, it is required to limit the capacity for certain establishments in order to avoid crowding. Faced with this need, we created iAforo. An embedded system powered by solar panels capable of recording the exact number of people in a space through artificial vision, and then showing whether or not there is iAforo (there is capacity).
   
 - [Izily](https://github.com/JoCGM09/Izily-React)
 
