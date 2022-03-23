@@ -13,13 +13,18 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
 ### Team Projects :star:
 
+
+- [Developers Forum](https://github.com/Jhomar1158-ux/code-camp)
+
+  CodeCamp is a developer forum where you can share documentation, ideas or tricks of code of different technologies. 
+
 - [Product Sorting System](https://github.com/Jhomar1158-ux/Proyecto-003)
 
   The development of this project allows us to apply concepts of microprocessors and microcontrollers for implementation in a product grouping system on a conveyor belt. For    this, computer vision libraries such as Tensor Flow and Open CV will be used, using Python as the base language. In this way, it seeks to achieve the objective of optimizing the classification of products and that it can be monitored on a screen using Flask.
 
 - [E-commerce of Table Games](https://github.com/Jhomar1158-ux/ecommerce-de-juegos-de-mesa)
 
-  E-commerce of table games with Django
+  Juégalo is an e-commerce board game developed with Django.
  
 - [Capacity Controller](https://github.com/Jhomar1158-ux/iAforo-pruebas)
 
