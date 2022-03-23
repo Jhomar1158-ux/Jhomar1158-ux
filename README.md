@@ -16,7 +16,7 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
 - [Developers Forum](https://github.com/Jhomar1158-ux/code-camp)
 
-  CodeCamp is a developer forum where you can share documentation, ideas or tricks of code of different technologies. 
+  CodeCamp is a developer forum where you can share documentation, ideas or code tricks from different technologies.
 
 - [Product Sorting System](https://github.com/Jhomar1158-ux/Proyecto-003)
 
