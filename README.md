@@ -9,7 +9,7 @@
 </a>
 
 <br /><br />
-I'm studying **Electronic Engineering** at the [National University of Engineering](https://www.facebook.com/UNIoficial.pe) in Peru :earth_americas:. I'm absolutely passionate about Technology, Marketing, UX and also very interested in Web Development.
+I'm studying **Electronic Engineering** at the [National University of Engineering](https://www.facebook.com/UNIoficial.pe) in Peru :earth_americas:. I am passionate about programming, marketing and also very interested in UX.
 
 ### Team Projects :star:
 
