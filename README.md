@@ -1,13 +1,5 @@
 ### Hi, I'm Jhomar! 👋
 
-<a href="https://www.linkedin.com/in/jhomar-astuyauri/">
-  <img align="left" alt="Jhomar Astuyauri | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.facebook.com/jhomar.astuyauriherencia.12/">
-  <img align="left" alt="Jhomar Astuyauri | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />
-</a>
-
 <br /><br />
 I'm studying **Electronic Engineering** at the [National University of Engineering](https://www.facebook.com/UNIoficial.pe) in Peru :earth_americas:. I am passionate about programming, marketing and also very interested in UX.
 
