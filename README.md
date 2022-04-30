@@ -4,6 +4,10 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
 ### Team Projects :star:
 
+- [Automatic Mailing](https://github.com/Jhomar1158-ux/Mailing-RAS-UNI)
+
+  Automated mail to broadcast events
+
 - [Call for Members Platform](https://github.com/Jhomar1158-ux/Raviga)
 
   Looking for an opportunity? In Raviga you can find calls for volunteers or members to support or develop different projects from your own university or others.
