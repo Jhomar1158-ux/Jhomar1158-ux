@@ -4,6 +4,10 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
 ### Team Projects :star:
 
+- [Plagiarism-checker-Python ](https://github.com/Jhomar1158-ux/Plagiarism-Checker-Project)
+
+  This repo consists of a source code of a python script to detect plagiarism in textual document using cosine similarity and Flask for a best experience.
+
 - [Automatic Mailing](https://github.com/Jhomar1158-ux/Mailing-RAS-UNI)
 
   Automated mail to broadcast events
