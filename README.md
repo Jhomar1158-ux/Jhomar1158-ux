@@ -4,6 +4,12 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
 ### Team Projects :star:
 
+- [iShelter](https://github.com/CodingDojoHackathonTeam2/SafeMaps)
+
+  iShelter will fund temporary housing for up to 100,000 people fleeing Ukraine ❤, regardless of their nationality, racial or ethnic origin, or how they identify     themselves. You can offer your space for this cause for free through iShelter, or make a donation that will help finance the stays of those who need it most.
+
+
+
 - [Plagiarism-checker-Python ](https://github.com/Jhomar1158-ux/Plagiarism-Checker-Project)
 
   This repo consists of a source code of a python script to detect plagiarism in textual document using cosine similarity and Flask for a best experience.
