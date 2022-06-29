@@ -4,11 +4,15 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
 ### Team Projects :star:
 
+
+
+- [Programming Camps](https://github.com/Edullka-Platform/edullka-platform)
+
+  Edullka Virtual Camps is a place where you can learn to code with your own mentor and also adventure as a camper. [Edullka course on Udemy in progress]
+
 - [iShelter](https://github.com/CodingDojoHackathonTeam2/SafeMaps)
 
   iShelter will fund temporary housing for up to 100,000 people fleeing Ukraine ❤, regardless of their nationality, racial or ethnic origin, or how they identify     themselves. You can offer your space for this cause for free through iShelter, or make a donation that will help finance the stays of those who need it most.
-
-
 
 - [Plagiarism-checker-Python ](https://github.com/Jhomar1158-ux/Plagiarism-Checker-Project)
 
@@ -46,10 +50,6 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
   Voice assistant at scale, integrated with an Artificial Intelligence, that provides truthful information on prevention and health promotion in the context of the COVID-19 pandemic.
  
-- [Programming Camps](https://edullka.github.io/)
-
-  Edullka Virtual Camps were born with the initiative to show the skills needed by students who are passionate about new technologies in the field of application.
-
   
 - [Delivery App](https://github.com/Jhomar1158-ux/Somos-Qurier-App)
   
