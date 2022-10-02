@@ -1,6 +1,11 @@
-### Hi, I'm Jhomar! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&height=100&section=header"/>
+</p>
 
-I'm studying **Electronic Engineering** at the [National University of Engineering](https://www.facebook.com/UNIoficial.pe) in Peru :earth_americas:. I am passionate about technology.
+### I'm Jhomar 👋 
+**`Product & Frontend development enthusiast`** 
+<br/><br/>
+I'm studying **Electronic Engineering** at the [National University of Engineering](https://www.facebook.com/UNIoficial.pe) in Peru :earth_americas:
 
 ### Team Projects :star:
 
@@ -60,3 +65,14 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 - [App to locate medical centers](https://github.com/Jhomar1158-ux/Project-Amachay)
   
   AMACHAY-COVID proposes a solution for the prevention of the contagion of COVID-19, alerting the presence and/or agglomeration of infected people in an approximate range of   100 meters around, through improved algorithms to identify the probably infected people, allowing them to monitor the contagion routes street by street, follow the route or   take another.
+  
+### Github Stats 📈 
+
+<p align="center">
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhomar1158-ux&layout=compact&theme=radical&custom_title=Languages" /> 
+ <br>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
+</p>
