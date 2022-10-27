@@ -9,6 +9,10 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
 ### Team Projects :star:
 
+- [Travis](https://github.com/No-Country/C7-07)
+
+  [Freelance Project] Social network for travelers, looking to connect their experiences and sign up for group tours.
+
 - [Tollkit](https://github.com/TollKit/tollkit)
 
   [Open Source Project] Electronic system that has Face mask, Vaccination card, Temperature less than 38.5, University Card detection, Use alcohol gel and connects in real time with a Web Platform for the visualization of data and history of people who entered. In this way, staff can avoid performing repetitive tasks that could lead to injury or fatigue.
