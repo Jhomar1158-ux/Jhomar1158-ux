@@ -11,7 +11,7 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
 - [Travis](https://github.com/No-Country/C7-07)
 
-  [Freelance Project] Social network for travelers, looking to connect their experiences and sign up for group tours.
+  Social network for travelers, looking to connect their experiences and sign up for group tours.
 
 - [Tollkit](https://github.com/TollKit/tollkit)
 
