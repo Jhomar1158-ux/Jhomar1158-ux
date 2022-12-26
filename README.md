@@ -9,6 +9,11 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
 ### Team Projects :star:
 
+- [Senci](https://github.com/Jhomar1158-ux/SenciLovers)
+
+  Senci is a cash machine that verifies, simplify and exchanges your digital money in real, giving you better management of your finances.
+
+
 - [Travis](https://github.com/No-Country/C7-07)
 
   Social network for travelers, looking to connect their experiences and sign up for group tours.
