@@ -9,6 +9,10 @@ I'm studying **Electronic Engineering** at the [National University of Engineeri
 
 ### Team Projects :star:
 
+- [Pilar App](https://github.com/Pilar-App/pilar-app)
+
+  Pilar, the app that will allow you to have a better organization and better management of your energy.
+
 - [Senci](https://github.com/Jhomar1158-ux/SenciLovers)
 
   Senci is a cash machine that verifies, simplify and exchanges your digital money in real, giving you better management of your finances.
